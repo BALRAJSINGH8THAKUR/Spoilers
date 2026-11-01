@@ -1,2 +1,2 @@
-# Spoilrts
+# Spoilers
 community design marketplace
